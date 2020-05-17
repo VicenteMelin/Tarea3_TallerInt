@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Tarea3_TallerInt/static/css/main.fec874d2.chunk.css",
+    "main.js": "/Tarea3_TallerInt/static/js/main.13b123de.chunk.js",
+    "main.js.map": "/Tarea3_TallerInt/static/js/main.13b123de.chunk.js.map",
+    "runtime-main.js": "/Tarea3_TallerInt/static/js/runtime-main.e8706b59.js",
+    "runtime-main.js.map": "/Tarea3_TallerInt/static/js/runtime-main.e8706b59.js.map",
+    "static/js/2.da787f41.chunk.js": "/Tarea3_TallerInt/static/js/2.da787f41.chunk.js",
+    "static/js/2.da787f41.chunk.js.map": "/Tarea3_TallerInt/static/js/2.da787f41.chunk.js.map",
+    "index.html": "/Tarea3_TallerInt/index.html",
+    "precache-manifest.14dd023b525cebb30e0b569c8a0631cd.js": "/Tarea3_TallerInt/precache-manifest.14dd023b525cebb30e0b569c8a0631cd.js",
+    "service-worker.js": "/Tarea3_TallerInt/service-worker.js",
+    "static/css/main.fec874d2.chunk.css.map": "/Tarea3_TallerInt/static/css/main.fec874d2.chunk.css.map",
+    "static/js/2.da787f41.chunk.js.LICENSE.txt": "/Tarea3_TallerInt/static/js/2.da787f41.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e8706b59.js",
+    "static/js/2.da787f41.chunk.js",
+    "static/css/main.fec874d2.chunk.css",
+    "static/js/main.13b123de.chunk.js"
+  ]
+}
