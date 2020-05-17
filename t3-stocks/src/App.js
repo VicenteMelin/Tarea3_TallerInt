@@ -300,9 +300,9 @@ function App() {
             <StyledTableRow key={x.ticker}>
               <StyledTableCell component="th" scope="row">{x.ticker} </StyledTableCell>
               <StyledTableCell align="right">{Total_buy_stock(x.ticker) + Total_sell_stock(x.ticker)}</StyledTableCell>
-              <StyledTableCell align="right">{Max_value(x.ticker)} </StyledTableCell>
-              <StyledTableCell align="right">{Min_value(x.ticker)}</StyledTableCell>
-              <StyledTableCell align="right">{Last_value(x.ticker)} </StyledTableCell>
+              <StyledTableCell align="right">{Max_value(x.ticker)} {x.quote_base} </StyledTableCell>
+              <StyledTableCell align="right">{Min_value(x.ticker)} {x.quote_base}</StyledTableCell>
+              <StyledTableCell align="right">{Last_value(x.ticker)} {x.quote_base}</StyledTableCell>
               <StyledTableCell align="right">{Percentage_value(x.ticker)} %</StyledTableCell>
             </StyledTableRow>
         )}
